@@ -1,7 +1,7 @@
 {
   "name": "research-library",
-  "version": "0.1.0",
-  "description": "Rigorous local multi-agent research with a categorized global knowledge library.",
+  "version": "0.1.0+codex.20260819193505",
+  "description": "Source-grounded research with a categorized local knowledge library.",
   "author": {
     "name": "Stepan Zagray",
     "url": "https://github.com/StepanZagray"
@@ -9,15 +9,24 @@
   "homepage": "https://github.com/StepanZagray/codex-research-library",
   "repository": "https://github.com/StepanZagray/codex-research-library",
   "license": "MIT",
-  "keywords": ["research", "knowledge", "multi-agent", "local-first"],
+  "keywords": [
+    "research",
+    "knowledge",
+    "multi-agent",
+    "local-first"
+  ],
   "skills": "./skills/",
   "interface": {
     "displayName": "Research Library",
-    "shortDescription": "Research deeply and preserve verified knowledge.",
-    "longDescription": "Orchestrates focused research agents, verifies important claims, and stores source-backed findings in a categorized Markdown library on the local machine.",
+    "shortDescription": "Research from sources and preserve verified knowledge.",
+    "longDescription": "Retrieves existing knowledge first, gathers bounded primary-source evidence, verifies important claims, and stores durable findings in a categorized local Markdown library.",
     "developerName": "Stepan Zagray",
     "category": "Productivity",
-    "capabilities": ["Research", "Multi-agent", "Local knowledge"],
+    "capabilities": [
+      "Research",
+      "Source verification",
+      "Local knowledge"
+    ],
     "defaultPrompt": [
       "Research this thoroughly and save the verified findings.",
       "Investigate this question using primary sources.",

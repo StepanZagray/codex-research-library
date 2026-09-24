@@ -1,13 +1,22 @@
+---
+title: "Knowledge Library index"
+type: map
+status: current
+created: YYYY-MM-DD
+updated: YYYY-MM-DD
+tags: [knowledge-library, map]
+---
+
 # Knowledge Library
 
-Global, local research memory organized by durable categories.
+Durable, source-backed research memory organized by broad categories.
 
 ## Categories
 
-- [Machine learning](ml/INDEX.md) — ML theory, architectures, training, evaluation, and projects.
+- [Category name](category/INDEX.md) — What belongs in this category.
 
 ## Conventions
 
-- Canonical topic notes contain verified, reusable knowledge.
-- `_runs/` contains briefs, raw findings, verification, and synthesis history.
+- Canonical topic notes contain maintained conclusions and adjacent citations.
+- `_runs/` preserves briefs, evidence packets, verification, and syntheses.
 - Categories are broad; project-specific knowledge belongs in a category scope.

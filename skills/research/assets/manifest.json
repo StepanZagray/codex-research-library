@@ -1,0 +1,19 @@
+{
+  "id": "YYYY-MM-DDTHHMMSSZ-topic",
+  "question": "Research question",
+  "decision_use": "Decision or deliverable this will inform",
+  "category": "category",
+  "scope": null,
+  "status": "planning",
+  "outcome": "pending",
+  "created_at": "YYYY-MM-DDTHH:MM:SSZ",
+  "updated_at": "YYYY-MM-DDTHH:MM:SSZ",
+  "assignments": [],
+  "verification": "pending",
+  "published_to": null,
+  "publication": {
+    "status": "pending",
+    "path": null,
+    "reason": null
+  }
+}

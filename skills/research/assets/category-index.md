@@ -1,6 +1,16 @@
+---
+title: "Category name"
+type: map
+status: current
+created: YYYY-MM-DD
+updated: YYYY-MM-DD
+category: category
+tags: [category, map]
+---
+
 # Category name
 
-One-sentence description of what belongs in this category.
+One sentence describing what belongs in this category.
 
 ## Scopes
 
@@ -8,4 +18,4 @@ One-sentence description of what belongs in this category.
 
 ## General topics
 
-Add topic links here when they are not scope-specific.
+- [Topic name](topic.md) — What this topic establishes.
